@@ -1,0 +1,5 @@
+git clone https://github.com/ваш-репозиторий/BypassFilterFuzzer.git
+cd BypassFilterFuzzer
+pip install -r requirements.txt
+g++ -O3 core/encoder.cpp -o core/encoder
+sqlite3 payloads.db < scripts/init_db.sql
