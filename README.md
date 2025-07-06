@@ -2,7 +2,7 @@
 > 🔥 ABOUT Project:
 > BypassFilter – It is an automated tool for finding vulnerabilities in web applications related to incorrect processing:
 > - Uploaded files (bypassing the extension check);
-> - URL parameters (FO, RCE, SQLi via encoding);
+> - URL parameters (LFI, RCE, SQLi via encoding);
 > - Input filters (WAF, blacklist checks).
 
 Technologies used:
