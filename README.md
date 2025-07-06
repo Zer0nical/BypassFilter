@@ -1,4 +1,5 @@
-> [!IMPORTANT] 🔥 ABOUT Project:
+> [!IMPORTANT]
+> 🔥 ABOUT Project:
 > BypassFilterFuzzer – It is an automated tool for finding vulnerabilities in web applications related to incorrect processing:
 > - Uploaded files (bypassing the extension check);
 > - URL parameters (FO, RCE, SQLi via encoding);
@@ -11,7 +12,8 @@ Technologies used:
 - ✔ C++
 - ✔ cURL and other tools
 
-> [!TIP] Functional
+> [!TIP]
+> Functional:
 > Generating payloads
 > Sending HTTP requests
 > Analyzing responses
