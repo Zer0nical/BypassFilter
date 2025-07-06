@@ -1,14 +1,20 @@
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> [!IMPORTANT] 🔥 ABOUT Project:
+> BypassFilterFuzzer – It is an automated tool for finding vulnerabilities in web applications related to incorrect processing:
+> - Uploaded files (bypassing the extension check);
+> - URL parameters (FO, RCE, SQLi via encoding);
+> - Input filters (WAF, blacklist checks).
 
-> [!TIP]
-> Optional information to help a user be more successful.
+Technologies used:
+- ✔ Bash
+- ✔ Python
+- ✔ SQLite
+- ✔ C++
+- ✔ cURL and other tools
 
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-> [!CAUTION]
-> Negative potential consequences of an action.
+> [!TIP] Functional
+> Generating payloads
+> Sending HTTP requests
+> Analyzing responses
+> Logging in SQLite
+> Acceleration via C++
+> Bash scripts
