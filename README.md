@@ -12,11 +12,11 @@ Technologies used:
 - ✔ C++
 - ✔ cURL and other tools
 
-> [!TIP]
+> [!IMPORTANT]
 > Functional:
-> Generating payloads
-> Sending HTTP requests
-> Analyzing responses
-> Logging in SQLite
-> Acceleration via C++
-> Bash scripts
+> - Generating payloads
+> - Sending HTTP requests
+> - Analyzing responses
+> - Logging in SQLite
+> - Acceleration via C++
+> - Bash scripts
