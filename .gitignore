@@ -64,6 +64,9 @@ fuzz.log
 *.toc
 *.out
 
-# === Тестовые данные ===
+# === TEST ===
 test_uploads/
 malicious_files/
+
+# === myfiles ===
+notes.txt

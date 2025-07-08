@@ -1,22 +1,57 @@
+# ⚡BypassFilter - ignore the extension checks.
+
+---
+
+***BypassFilter*** – It is an automated tool for *finding vulnerabilities* in web applications related to *incorrect processing*:
+
 > [!IMPORTANT]
-> 🔥 ABOUT Project:
-> BypassFilter – It is an automated tool for finding vulnerabilities in web applications related to incorrect processing:
 > - Uploaded files (bypassing the extension check);
 > - URL parameters (LFI, RCE, SQLi via encoding);
 > - Input filters (WAF, blacklist checks).
 
-Technologies used:
-- ✔ Bash
-- ✔ Python
-- ✔ SQLite
-- ✔ C++
-- ✔ cURL and other tools
+This utility is being developed **to study** some **simple vulnerabilities** and to ***automate and speed up*** the processes involved in *finding* these *vulnerabilities*.
 
-> [!IMPORTANT]
+> [!NOTE]
 > Functional:
 > - Generating payloads
 > - Sending HTTP requests
 > - Analyzing responses
-> - Logging in SQLite
+> - Logging in SQLite / MongoDB
 > - Acceleration via C++
 > - Bash scripts
+
+---
+
+## 🛠️ Technologies used:
+- ✔ Bash
+- ✔ PowerShell
+- ✔ Python 
+- ✔ SQLite / MongoDB
+- ✔ C++
+- ✔ cURL and other tool
+
+## 🗂️ Auxiliary data
+
+> [!WARNING]
+The repository will contain the file **requirements.txt**
+
+***Later.***
+
+---
+## 📁 Project structure
+
+```bash
+BypassFilter
+├── src/
+│   ├── bash-src/        
+│   └── cpp-src/       
+```
+***Later.***
+
+---
+## ✅ How to Install & Run
+***Later.***
+
+---
+## 📧 Feedback & Contributions
+***Later.***
