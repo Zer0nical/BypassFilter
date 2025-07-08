@@ -29,6 +29,8 @@ This utility is being developed **to study** some **simple vulnerabilities** and
 - ✔ C++
 - ✔ cURL and other tool
 
+---
+
 ## 🗂️ Auxiliary data
 
 > [!WARNING]
