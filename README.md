@@ -2,7 +2,7 @@
 
 ---
 
-***BypassFilter*** – It is an automated tool for *finding vulnerabilities* in web applications related to *incorrect processing*:
+***BypassFilter*** – It is an automated Linux tool for *finding vulnerabilities* in web applications related to *incorrect processing*:
 
 > [!IMPORTANT]
 > - Uploaded files (bypassing the extension check);
@@ -24,7 +24,6 @@ This utility is being developed **to study** some **simple vulnerabilities** and
 
 ## 🛠️ Technologies used:
 - ✔ Bash
-- ✔ PowerShell
 - ✔ Python 
 - ✔ SQLite / MongoDB
 - ✔ C++
