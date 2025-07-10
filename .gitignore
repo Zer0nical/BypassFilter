@@ -70,3 +70,4 @@ malicious_files/
 
 # === myfiles ===
 notes.txt
+*.txt
